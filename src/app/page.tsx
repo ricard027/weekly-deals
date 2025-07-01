@@ -11,7 +11,7 @@ export default function Home() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
               Descubra produtos de tecnologia incríveis a preços imbatíveis.
-              Nossas ofertas especiais trazem as melhores promoções em
+              Nossas ofertas semanais trazem as melhores promoções em
               smartphones, notebooks, gadgets e muito mais.
             </p>
 
@@ -19,7 +19,7 @@ export default function Home() {
               href="/ofertas"
               className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200 text-lg"
             >
-              Ver ofertas especiais
+              Ver ofertas da semana
             </Link>
           </div>
 
